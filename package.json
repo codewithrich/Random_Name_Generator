@@ -1,0 +1,14 @@
+{
+  "name": "random-name-generator",
+  "version": "1.0.0",
+  "description": "It was an Random name generator for the profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richardson.D",
+  "license": "ISC",
+  "dependencies": {
+    "sillyname": "^0.1.0"
+  }
+}
